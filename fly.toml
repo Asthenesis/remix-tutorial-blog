@@ -1,6 +1,6 @@
-# fly.toml file generated for little-violet-2787 on 2022-10-30T19:25:06+07:00
+# fly.toml file generated for blog-tutorial-2483 on 2022-10-30T19:25:06+07:00
 
-app = "little-violet-2787"
+app = "blog-tutorial-2483"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
